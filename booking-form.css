@@ -1,0 +1,15 @@
+body {margin: 0;
+	padding: 0;
+}
+
+.holder {
+	width: 940px;
+		height: 1600px;
+		margin: 0 auto;
+		/*background-color: red*/;
+}
+.kopce {
+	height: 60px;
+	width: 100px;
+}
+
